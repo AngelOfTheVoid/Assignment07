@@ -33,7 +33,7 @@ public class A7Q5 {
           marks[q] = input.nextInt();
       }
       
-//runs the code under 10 times
+//runs the code  x times, where x is the number the user entered
         for (int i = 0; i < amount; i++) {
 //takes the first number then cycles it though comparing the number to the others
 //if the inital number is grater it will swap. if will do the same for the rest putting them in order             
